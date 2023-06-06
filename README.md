@@ -5,5 +5,5 @@ Docente - [Flávia da Fonseica Feitosa](https://www.ufabc.edu.br/ensino/docentes
 
 ### FERRAMENTAS UTILIZADAS NA DISCIPLINA
 - Linguagem de Programação: **R**
-- IDE: [RSTUDIO](https://posit.co/download/rstudio-desktop/)
+- IDE: [RStudio](https://posit.co/download/rstudio-desktop/)
 - Software de Spatial Data Science: [GeoDA](https://geodacenter.github.io/)
