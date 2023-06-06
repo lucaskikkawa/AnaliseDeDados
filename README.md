@@ -1,5 +1,5 @@
 Arquivos referentes a disciplina de **Análise de Dados para o Planejamento Territorial** 
-Quadrimestre: **2023.2** 
+Quadrimestre: **2023.2**
 Docente - [Flávia da Fonseica Feitosa](https://www.ufabc.edu.br/ensino/docentes/flavia-da-fonseca-feitosa)
 
 ### FERRAMENTAS UTILIZADAS NA DISCIPLINA
