@@ -6,6 +6,8 @@ getwd()
 agua1 <- read.csv2("Aula02/Dados/agua1.csv", encoding="UTF-8")
 
 # 3. Explorando os dados
+# PS: Podem ser utilizadas em qualquer tipo de extensão
+# Seja em .csv, .xlsx, etc
 View(agua1) # Tabela parecida com .xlsx
 names(agua1) # variaveis da base de dados
 head(agua1) # N primeiras linhas. Default n = 6
