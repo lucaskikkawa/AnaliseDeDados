@@ -1,0 +1,22 @@
+---
+title: "Trabalho de Analise de Dados"
+author: "Gabriel, Lucas Kikkawa e Wesley Cafe"
+format: html
+editor: visual
+---
+
+```{r}
+# Extensão qmd (Quarto MarkDown)
+# Quarto = lib que utiliza também R Markdown
+# Bloco para executar comandos em R
+#install.packages("tidyverse")
+#install.packages("palmerpenguins")
+#install.packages("quarto")
+library(quarto)
+
+dados = read.csv2("C:/Users/lucas.kikkawa/AnaliseDeDados/TrabalhoFinal/Dados/Gerados/RendaMedia_TipoTransporte.csv", encoding="UTF-8")
+#View(dados)
+boxplot(dados)
+
+# quarto_render()
+```

@@ -1,0 +1,37 @@
+---
+title: "Trabalho de Analise de Dados"
+author: "Gabriel, Lucas Kikkawa e Wesley Cafe"
+format: html
+editor: visual
+---
+
+```{r}
+# Bloco para execução de comandos em R
+
+# Instalação Pacotes
+#install.packages("quarto")
+#install.packages("rmarkdown")
+
+# Import Bibliotecas
+library(quarto)
+library(rmarkdown)
+
+# Leitura de arquivos (Lembrar de alterar o caminho)
+# To-Do: ver um jeito de deixar um caminho padrão
+
+# Lucas - Lab
+# dados = read.csv2("C:/Users/lucas.kikkawa/AnaliseDeDados/TrabalhoFinal/Dados/Gerados/RendaMedia_TipoTransporte.csv", encoding="UTF-8")
+
+# Lucas - Note
+dados = read.csv2("C:/Users/lucas/Documents/AnaliseDeDados/TrabalhoFinal/Dados/Filtrados/RendaMedia_TipoTransporte.csv", encoding="UTF-8")
+
+# Wesley
+
+# Gabriel
+
+
+# Plot de Tabelas Graficos
+View(dados)
+boxplot(dados)
+
+```

@@ -1,0 +1,17 @@
+Variaveis
+
+$zona
+[1] "Zona de domicílio"
+
+$renda_fa
+[1] "Renda familiar mensal"
+
+$modoprin
+[1] "Modo Principal"
+
+$tipvg
+[1] "Tipo de viagem"
+
+Renda média Por Zona de Origem + Tipo De Viagem
+
+
