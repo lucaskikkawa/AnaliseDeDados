@@ -1,0 +1,98 @@
+Estruturação da Base de Dados e seus Relacionamentos 
+
+-----------------------------------------------------------------------------
+
+Fonte de Dados:
+
+  - IBGE (Censo 2010)
+  - OD (Pesquisa_OD_Regiao_Metropolitana_SP_2017)
+
+-----------------------------------------------------------------------------
+
+Base de Dados e Tabelas (DB):
+
+DB = Trabalho_Grupo02 (Base de Dados gerado em SQL)
+
+Tabela_Principal = utilizada para aglutinar todos os dados do Trabalho
+
+Tabela_OD = Dados de OD
+
+Tabela_IBGE = Dados de IBGE
+
+
+-----------------------------------------------------------------------------
+Estruturação Tabelas
+
+Tabela_Principal:
+  - Relacionamento de Dados ( Join Tabela_OD e Tabela_IBGE)
+    - Setor Censitario OD = Setor Censitario IBGE
+    - OD: (Foreign Key = ID_Setor_Censitario)
+    - IBGE: (Foreign Key = ID_Setor_Censitario)
+    - Filtrar Dados de OD e IBGE pelo Setor_Censitário é composta por Setores Censitários
+      - Filtrar Setores Censitários em Zona_OD, ou seja, 
+      WHERE ZONA_OD = 1 AND SETOR CENSITARIO = 2
+  - Variavel "Zona_OD"
+    - Devo Pegar Dados da tabela_IBGE por Setores Censitarios
+    - Adicionar Dados da tabela_IBGE e Relacionar com Setores Censitarios em OD
+    - Relacionar Dados Setores Censitarios com Zona_OD
+    - Utilizar Dados relacionados a Zona_OD
+      - Exemplo:
+        Zona_OD | Porcentagem_Utilizam_Carros_Nesta_Zona
+        Porcentagem_Utilizam_Carros_Nesta_Zona = Dados de Todos os Setores Censitarios desta Zona
+
+Tabela_OD:
+  - Filtro variaveis a serem escolhidas de OD (Obrigatorio: Zona e Setores Censitarios)  
+  
+Tabela_IBGE
+  - Filtro variaveis a serem escolhidas de OD (Obrigatório: Setores Censitarios)
+  
+-----------------------------------------------------------------------------
+
+Variaveis das Tabelas
+
+Principal
+  - Zona_OD
+  - Proporção_Utilizam_Transporte_Publico
+  - Proporção Utilizam_Transporte_Privado
+  - Proporção Utilizam_Carro
+  
+OD
+  - Zona
+  - Setor Censitario
+  - Proporção_Renda_Familiar_Classe_B (Utilizar dados IBGE de classe economica)
+  
+IBGE
+  - Setor Censitario
+-----------------------------------------------------------------------------
+
+Formatação dos dados das variaveis:
+- Utilizar valores proporcionais ao invés de dados absolutos
+  - E.G.
+      Total de Tipos de Transporte realizados em uma zona (Ruim)  
+      Proporção de Viagens de Carro privado realizados em uma zona (Bom)
+      Proporção de Viagens de Transporte Publico realizados em uma zona (Bom)
+
+
+
+
+-----------------------------------------------------------------------------
+Observações nas tabelas (Entity)
+
+Principal
+  - Cada entity é uma Zona_OD (Composto por Setores Censitarios)
+  - Key Principal = ID_Zona_OD
+
+OD
+  - Cada entity é uma Zona_OD (Composto por Setores Censitarios)
+
+IBGE
+  - Cada entity é um setor censitario
+
+-----------------------------------------------------------------------------
+
+
+
+- Utilizar Variaveis como Genero,Raça,Renda entre outros
+
+
+    
