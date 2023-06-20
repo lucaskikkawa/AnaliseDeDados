@@ -1,5 +1,5 @@
 # Tidyverse
-#install.packages("tidyverse")
+install.packages("tidyverse")
 library(tidyverse)
 
 # Funções presentes na biblioteca tidyverse
@@ -125,7 +125,7 @@ tabela_PROPREDE <- agua_rede1 %>%
          limite_inferior = media - erro)
 
 # Visualização (Graficos)
-#install.packages("ggplot2")
+install.packages("ggplot2")
 library(ggplot2)
 tabela_PROPREDE
 
@@ -164,6 +164,6 @@ ggplot(data = tabela_PROPREDE, aes(x = REGIAO, y = media, fill=REGIAO)) +
 #names(rede1)
 
 # 4º - Exportar Dados
-write.csv2(agua_rede1, "~/Analisedados/Aulas/Aula03/Dados/agua_rede1.csv", row.names = FALSE)
-
+#write.csv2(agua_rede1, "~/Analisedados/Aulas/Aula03/Dados/agua_rede1.csv", row.names = FALSE)
+write.csv2(agua_rede1, "~/Analisedados/Aulas/Aula03/Dados/teste1000000.csv", row.names = FALSE)
 
