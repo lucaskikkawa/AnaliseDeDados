@@ -1,0 +1,9 @@
+Reutilizacoes_TrabalhoGabriel.txt
+
+- MAPA 1: Rodovias e ferrovias (Malha rodoviaria e ferroviaria Santo André + Renda Média)
+	- Fonte dos dados (IBGE?) 
+	- Corroborar com dados do OD_2017
+	- Arquivo QGIS
+- Investimento do governo no setor de transportes em 2001 
+	- Complementar explicação dos dados realizados em nossa analise
+	- Fonte desta informação
