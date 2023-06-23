@@ -1,0 +1,21 @@
+# Arquivos temporários do R
+.RData
+.Rhistory
+.Rapp.history
+
+# Aquivos de projeto do RStudio
+.Rproj.user
+.Rproj
+
+# Arquivos HTML gerados a partir de R Markdown
+*.html
+*.md
+
+# Arquivos temporários ou específicos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de banco de dados SQLite
+*.sqlite
+*.sqlite3
+*.db
