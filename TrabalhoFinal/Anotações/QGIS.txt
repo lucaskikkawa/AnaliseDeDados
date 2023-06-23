@@ -1,2 +1,0 @@
-Relacionar dados de diferentes tabelas (?)
-- Attribute_By_Location()

@@ -1,4 +1,0 @@
-- RStudio e R: Analise de Dados
-- SQlLite ou algo mais básico: Armazenamento e relacionamento de Dados
-- QGIS: Analise Espacial
-- R(Quarto e RMarkdown): Escrita e apresentação do trabalho.
