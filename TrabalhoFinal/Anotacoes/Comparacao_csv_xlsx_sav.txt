@@ -1,0 +1,43 @@
+								CSV
+
+Vantagens:
+
+Leve, eficiente e simples, ideal para transferências de dados.
+Amplamente compatível com uma variedade de programas, de aplicativos de planilha a bancos de dados e linguagens de programação.
+Como é um arquivo de texto, pode ser aberto e editado em qualquer editor de texto.
+
+Desvantagens:
+
+Não suporta recursos avançados, como formatação de células, fórmulas, gráficos, etc.
+Limitado ao armazenamento de dados textuais e numéricos simples.
+Os dados podem ser mal interpretados se o delimitador (vírgula ou ponto e vírgula) não for claramente especificado ou entendido.
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+								XLSX
+
+Vantagens:
+
+Suporta uma ampla gama de recursos avançados, incluindo formatação de células, fórmulas, gráficos, comentários, entre outros.
+Permite o uso de múltiplas folhas de trabalho em um único arquivo.
+Capacidade de aplicar proteção de senha e permissões de acesso.
+
+Desvantagens:
+
+Não é tão universalmente compatível quanto os arquivos CSV, embora seja suportado pela maioria dos programas de planilha.
+É um formato mais pesado, o que pode torná-lo menos eficiente para transferência de dados.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+								SAV
+
+Vantagens:
+
+Permite armazenar metadados sobre os dados, como nomes de variáveis, rótulos de valores e outras informações úteis para análises estatísticas.
+Otimizado para uso com o software IBM SPSS, permitindo recursos analíticos avançados.
+
+Desvantagens:
+
+Específico para o software IBM SPSS e não é amplamente compatível com outros programas, a menos que tenham suporte específico para este formato.
+É um formato de arquivo mais pesado, o que pode torná-lo menos eficiente para transferência de dados.
