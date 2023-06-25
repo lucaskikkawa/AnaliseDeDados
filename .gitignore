@@ -19,3 +19,8 @@ Thumbs.db
 *.sqlite
 *.sqlite3
 *.db
+
+# Arquivos de Dados: xlsx, sav e csv
+*.csv
+*.sav
+*.xlsx
