@@ -75,5 +75,6 @@ if(tolower(inicio) == "s"){
       cat(sprintf("%d = %s\n", i, bancos_de_dados[i]))
     }
     cat("\n")
+    cat("\n")
   }
 }
