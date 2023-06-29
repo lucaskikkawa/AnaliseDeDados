@@ -1,5 +1,97 @@
 Estruturação da Base de Dados e seus Relacionamentos 
 
+Primeira Parte
+
+Origem e Destino (OD) 
+
+Link drive https://drive.google.com/drive/folders/1QGKvwb1OBbubuxN8Dt118FeBZYCbPv23
+
+Diretórios
+- CSV
+    - ZOrigem
+    - ZDestino 
+    - ZResidencia
+    - ZEmprego 
+- xlsx
+    - ZOrigem
+    - ZDestino 
+    - ZResidencia
+    - ZEmprego 
+    - Glossario OD
+
+Arquivos CSV
+1° - Criar CSV para cada Tabela de um diretório específico 
+E.G 
+- ZEmprego/T12.csv
+
+2° - Limpeza de Dados 
+- Transformar os valores das variáveis em Porcentagens, exceto total e Zona
+E.G 
+Domicílios - 20394 (X) 
+Domicílios - 58,76% (V) 
+- Limpar dados reais com apenas 2 casas decimais (round) 
+
+
+Arquivos xlsx
+1°- Adicionar variáveis ao Glossario 
+
+2°- Criar novas variáveis, reduzindo o tamanho das variáveis (tam max = 10 char e snake_case)
+
+3° - Renomear tabela xlsx original com as variáveis
+ 
+4°
+Dados Null ou - substituir por zero inteiro (0)
+Variável Total 
+- Copiar e Colar no mesmo lugar 
+   - Clicar na prancheta 
+   - "Selecionar Somente Valores" 
+
+5°- Exportar como .csv padrão 
+Separador - "," 
+
+
+
+-----------------------------------------------------------------------------
+
+RStudio
+
+Pacote RSQLITE 
+- Utilizar DB Temporário
+
+
+
+Scripts num geral
+1° - Criação do DB Temporário
+
+2° - Importação dos dados
+
+3° 
+Manipulação dos dados 
+Análise Exploratória
+Gráficos 
+
+4° - Exportação dos dados 
+
+5° - Fecha Conexão
+
+Scripts
+- Analise Exploratoria (Coeficiente, etc) 
+- Manipulação dos dados (Adicionar, deletar, etc) 
+- Gráficos (histograma, box-plot, etc) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 -----------------------------------------------------------------------------
 
 Fonte de Dados:
