@@ -70,7 +70,7 @@ con <- dbConnect(SQLite(), caminho_completo_db)
 # Lê os dados do arquivo escolhido e importa para o banco de dados
 if(tipo_arquivo == "csv"){
   # Lê os dados do arquivo .csv
-  dados <- read.csv(file.path(caminho_para_dados, nome_arquivo))
+  dados <- read.csv2(file.path(caminho_para_dados, nome_arquivo))
 }else if(tipo_arquivo == "sav"){
   # Lê os dados do arquivo .sav
   dados <- haven::read_spss(file.path(caminho_para_dados, nome_arquivo))
