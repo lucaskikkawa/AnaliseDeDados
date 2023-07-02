@@ -23,3 +23,6 @@ Thumbs.db
 # Arquivos de Dados sav
 *.sav
 
+# Diretorio de Aulas
+Aulas/
+
