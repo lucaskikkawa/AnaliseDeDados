@@ -1,5 +1,4 @@
-Zona de Destino,Trabalho Indústria,Trabalho Comércio,Trabalho Serviços,Educação,Compras,Saúde,Lazer,Procurar Emprego,Assuntos Pessoais,Refeição,Total
-23_ ZonDes,23_TrabInd,23_TrabCom,23_TrabSer,23_Educ,23_Compr,23_Saude,23_Lazer,23_ProcEmp,23_AssPess,23_Refei,23_Total
+Zona,TrabInd_23,TrabCom_23,TrabSer_23,Educ_23,Compr_23,Saude_23,Lazer_23,ProcEmp_23,AssPess_23,Refei_23,Total
 1,1591,11035,88680,6999,6751,1418,3222,3125,20312,17026,160157
 2,2260,32580,38487,4438,37999,1537,2302,1261,10889,6553,138306
 3,1604,3713,29270,8727,3511,2696,1747,170,5894,5171,62503
@@ -517,7 +516,3 @@ Zona de Destino,Trabalho Indústria,Trabalho Comércio,Trabalho Serviços,Educa�
 515,18346,15761,35399,61027,5052,6732,2285,0,9697,0,154298
 516,21201,18026,76230,81206,3183,7076,1251,0,5559,1009,214742
 517,1571,2646,7518,10967,0,58,0,0,167,0,22927
-,,,,,,,,,,,
-Total RMSP,2924869,3523074,12064328,14670928,1929215,1827264,1816626,180089,2496314,573954,42006660
-,,,,,,,,,,,
-Fonte:  Metrô/SP - Pesquisa Origem e Destino 2017,,,,,,,,,,,

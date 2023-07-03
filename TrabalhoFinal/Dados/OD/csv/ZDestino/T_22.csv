@@ -1,5 +1,4 @@
-Zona de Destino,Coletivo,Individual,Modo Motorizado,Modo Não Motorizado,Total
-22_ZonDes,22_coleti,22_Indivi,22_ModMot,22_ModNMot,22_Total
+Zona,coleti_22,Indivi_22,ModMot_22,ModNMot_22,Total
 1,101862,16479,118342,41816,160157
 2,82358,28982,111341,26966,138306
 3,29626,9208,38834,23669,62503
@@ -517,19 +516,3 @@ Zona de Destino,Coletivo,Individual,Modo Motorizado,Modo Não Motorizado,Total
 515,52428,47887,100316,53983,154298
 516,66985,94454,161439,53303,214742
 517,6337,2867,9204,13723,22927
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-Notas:,,,,,
-,,,,,
-"São considerados como modo coletivo: metrô, trem, ônibus, transporte fretado e transporte escolar.",,,,,
-,,,,,
-"São considerados como modo individual: automóvel, táxi, motocicleta e outros.",,,,,
-,,,,,
-Modo não-motorizado é a soma dos modos a pé e bicicleta.,,,,,
-,,,,,
-Viagem a pé é aquela realizada a pé da origem ao destino; não se complementa com nenhum outro modo de transporte.  ,,,,,
-"Foram consideradas todas as viagens a pé pelos motivos trabalho e escola, independentemente da distância percorrida;",,,,,
-"para os demais motivos, quando a distância da viagem a pé  foi superior a 500 metros.",,,,,
