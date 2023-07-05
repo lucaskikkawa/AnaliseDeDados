@@ -1,0 +1,28 @@
+Fazer Correlações entre as variaveis
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+3º
+
+- Tempo (Origem - Tabela 20)
+- Finalidade (Origem - Tabela 18)
+
+
+4º
+
+- Modal por Tipo (Tabela 17)/ Renda (Tabela 5)
+
+5º
+
+- Tabela 18 AND Tabela 16
+
+OBS: 
+
+Transformar CSV originais em Porcentagem em relação ao Total
+
+Matriz Correlação entre estes csv
+
+
+
+
