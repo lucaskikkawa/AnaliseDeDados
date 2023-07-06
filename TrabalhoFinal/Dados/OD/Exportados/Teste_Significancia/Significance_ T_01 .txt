@@ -1,0 +1,576 @@
+T_01 : Domicil_01 and T_01 : Famlias_01 
+ t =  951.98 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  1 to 1 
+ cor =  1 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : Domicil_01 and T_01 : Pop_01 
+ t =  237.18 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.99 to 1 
+ cor =  1 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : Domicil_01 and T_01 : MatrEsc_01 
+ t =  20.83 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.63 to 0.72 
+ cor =  0.68 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : Domicil_01 and T_01 : Emp_01 
+ t =  9.66 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.32 to 0.46 
+ cor =  0.39 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : Domicil_01 and T_01 : AutPart_01 
+ t =  44.31 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.87 to 0.91 
+ cor =  0.89 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : Domicil_01 and T_01 : ViagPro_01 
+ t =  35.39 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.81 to 0.87 
+ cor =  0.84 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : Domicil_01 and T_01 : ViagAtr_01 
+ t =  35.29 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.81 to 0.86 
+ cor =  0.84 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : Domicil_01 and T_01 : Area_01 
+ t =  -0.26 
+ df (corrected) =  515 
+ p-value =  0.79 
+ 95 percent confidence interval:  -0.1 to 0.07 
+ cor =  -0.01 
+ Decision:  Hipótese nula não rejeitada 
+
+T_01 : Famlias_01 and T_01 : Domicil_01 
+ t =  951.98 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  1 to 1 
+ cor =  1 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : Famlias_01 and T_01 : Pop_01 
+ t =  237.77 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.99 to 1 
+ cor =  1 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : Famlias_01 and T_01 : MatrEsc_01 
+ t =  20.79 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.63 to 0.72 
+ cor =  0.68 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : Famlias_01 and T_01 : Emp_01 
+ t =  9.59 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.31 to 0.46 
+ cor =  0.39 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : Famlias_01 and T_01 : AutPart_01 
+ t =  44.15 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.87 to 0.91 
+ cor =  0.89 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : Famlias_01 and T_01 : ViagPro_01 
+ t =  35.28 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.81 to 0.86 
+ cor =  0.84 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : Famlias_01 and T_01 : ViagAtr_01 
+ t =  35.17 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.81 to 0.86 
+ cor =  0.84 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : Famlias_01 and T_01 : Area_01 
+ t =  -0.25 
+ df (corrected) =  515 
+ p-value =  0.8 
+ 95 percent confidence interval:  -0.1 to 0.08 
+ cor =  -0.01 
+ Decision:  Hipótese nula não rejeitada 
+
+T_01 : Pop_01 and T_01 : Domicil_01 
+ t =  237.18 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.99 to 1 
+ cor =  1 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : Pop_01 and T_01 : Famlias_01 
+ t =  237.77 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.99 to 1 
+ cor =  1 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : Pop_01 and T_01 : MatrEsc_01 
+ t =  20.26 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.62 to 0.71 
+ cor =  0.67 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : Pop_01 and T_01 : Emp_01 
+ t =  8.58 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.28 to 0.43 
+ cor =  0.35 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : Pop_01 and T_01 : AutPart_01 
+ t =  40 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.85 to 0.89 
+ cor =  0.87 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : Pop_01 and T_01 : ViagPro_01 
+ t =  32.48 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.79 to 0.85 
+ cor =  0.82 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : Pop_01 and T_01 : ViagAtr_01 
+ t =  32.38 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.79 to 0.85 
+ cor =  0.82 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : Pop_01 and T_01 : Area_01 
+ t =  0.11 
+ df (corrected) =  515 
+ p-value =  0.92 
+ 95 percent confidence interval:  -0.08 to 0.09 
+ cor =  0 
+ Decision:  Hipótese nula não rejeitada 
+
+T_01 : MatrEsc_01 and T_01 : Domicil_01 
+ t =  20.83 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.63 to 0.72 
+ cor =  0.68 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : MatrEsc_01 and T_01 : Famlias_01 
+ t =  20.79 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.63 to 0.72 
+ cor =  0.68 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : MatrEsc_01 and T_01 : Pop_01 
+ t =  20.26 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.62 to 0.71 
+ cor =  0.67 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : MatrEsc_01 and T_01 : Emp_01 
+ t =  12.47 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.41 to 0.55 
+ cor =  0.48 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : MatrEsc_01 and T_01 : AutPart_01 
+ t =  18.13 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.57 to 0.67 
+ cor =  0.62 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : MatrEsc_01 and T_01 : ViagPro_01 
+ t =  29.21 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.75 to 0.82 
+ cor =  0.79 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : MatrEsc_01 and T_01 : ViagAtr_01 
+ t =  29.22 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.75 to 0.82 
+ cor =  0.79 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : MatrEsc_01 and T_01 : Area_01 
+ t =  -0.87 
+ df (corrected) =  515 
+ p-value =  0.39 
+ 95 percent confidence interval:  -0.12 to 0.05 
+ cor =  -0.04 
+ Decision:  Hipótese nula não rejeitada 
+
+T_01 : Emp_01 and T_01 : Domicil_01 
+ t =  9.66 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.32 to 0.46 
+ cor =  0.39 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : Emp_01 and T_01 : Famlias_01 
+ t =  9.59 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.31 to 0.46 
+ cor =  0.39 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : Emp_01 and T_01 : Pop_01 
+ t =  8.58 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.28 to 0.43 
+ cor =  0.35 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : Emp_01 and T_01 : MatrEsc_01 
+ t =  12.47 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.41 to 0.55 
+ cor =  0.48 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : Emp_01 and T_01 : AutPart_01 
+ t =  11.55 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.38 to 0.52 
+ cor =  0.45 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : Emp_01 and T_01 : ViagPro_01 
+ t =  26.96 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.73 to 0.8 
+ cor =  0.77 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : Emp_01 and T_01 : ViagAtr_01 
+ t =  27.03 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.73 to 0.8 
+ cor =  0.77 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : Emp_01 and T_01 : Area_01 
+ t =  -2.63 
+ df (corrected) =  515 
+ p-value =  0.01 
+ 95 percent confidence interval:  -0.2 to -0.03 
+ cor =  -0.11 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : AutPart_01 and T_01 : Domicil_01 
+ t =  44.31 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.87 to 0.91 
+ cor =  0.89 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : AutPart_01 and T_01 : Famlias_01 
+ t =  44.15 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.87 to 0.91 
+ cor =  0.89 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : AutPart_01 and T_01 : Pop_01 
+ t =  40 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.85 to 0.89 
+ cor =  0.87 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : AutPart_01 and T_01 : MatrEsc_01 
+ t =  18.13 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.57 to 0.67 
+ cor =  0.62 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : AutPart_01 and T_01 : Emp_01 
+ t =  11.55 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.38 to 0.52 
+ cor =  0.45 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : AutPart_01 and T_01 : ViagPro_01 
+ t =  31.28 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.78 to 0.84 
+ cor =  0.81 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : AutPart_01 and T_01 : ViagAtr_01 
+ t =  31.21 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.78 to 0.84 
+ cor =  0.81 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : AutPart_01 and T_01 : Area_01 
+ t =  -0.2 
+ df (corrected) =  515 
+ p-value =  0.84 
+ 95 percent confidence interval:  -0.1 to 0.08 
+ cor =  -0.01 
+ Decision:  Hipótese nula não rejeitada 
+
+T_01 : ViagPro_01 and T_01 : Domicil_01 
+ t =  35.39 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.81 to 0.87 
+ cor =  0.84 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : ViagPro_01 and T_01 : Famlias_01 
+ t =  35.28 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.81 to 0.86 
+ cor =  0.84 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : ViagPro_01 and T_01 : Pop_01 
+ t =  32.48 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.79 to 0.85 
+ cor =  0.82 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : ViagPro_01 and T_01 : MatrEsc_01 
+ t =  29.21 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.75 to 0.82 
+ cor =  0.79 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : ViagPro_01 and T_01 : Emp_01 
+ t =  26.96 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.73 to 0.8 
+ cor =  0.77 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : ViagPro_01 and T_01 : AutPart_01 
+ t =  31.28 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.78 to 0.84 
+ cor =  0.81 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : ViagPro_01 and T_01 : ViagAtr_01 
+ t =  1691.44 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  1 to 1 
+ cor =  1 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : ViagPro_01 and T_01 : Area_01 
+ t =  -1.82 
+ df (corrected) =  515 
+ p-value =  0.07 
+ 95 percent confidence interval:  -0.16 to 0.01 
+ cor =  -0.08 
+ Decision:  Hipótese nula não rejeitada 
+
+T_01 : ViagAtr_01 and T_01 : Domicil_01 
+ t =  35.29 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.81 to 0.86 
+ cor =  0.84 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : ViagAtr_01 and T_01 : Famlias_01 
+ t =  35.17 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.81 to 0.86 
+ cor =  0.84 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : ViagAtr_01 and T_01 : Pop_01 
+ t =  32.38 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.79 to 0.85 
+ cor =  0.82 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : ViagAtr_01 and T_01 : MatrEsc_01 
+ t =  29.22 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.75 to 0.82 
+ cor =  0.79 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : ViagAtr_01 and T_01 : Emp_01 
+ t =  27.03 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.73 to 0.8 
+ cor =  0.77 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : ViagAtr_01 and T_01 : AutPart_01 
+ t =  31.21 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.78 to 0.84 
+ cor =  0.81 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : ViagAtr_01 and T_01 : ViagPro_01 
+ t =  1691.44 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  1 to 1 
+ cor =  1 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : ViagAtr_01 and T_01 : Area_01 
+ t =  -1.81 
+ df (corrected) =  515 
+ p-value =  0.07 
+ 95 percent confidence interval:  -0.16 to 0.01 
+ cor =  -0.08 
+ Decision:  Hipótese nula não rejeitada 
+
+T_01 : Area_01 and T_01 : Domicil_01 
+ t =  -0.26 
+ df (corrected) =  515 
+ p-value =  0.79 
+ 95 percent confidence interval:  -0.1 to 0.07 
+ cor =  -0.01 
+ Decision:  Hipótese nula não rejeitada 
+
+T_01 : Area_01 and T_01 : Famlias_01 
+ t =  -0.25 
+ df (corrected) =  515 
+ p-value =  0.8 
+ 95 percent confidence interval:  -0.1 to 0.08 
+ cor =  -0.01 
+ Decision:  Hipótese nula não rejeitada 
+
+T_01 : Area_01 and T_01 : Pop_01 
+ t =  0.11 
+ df (corrected) =  515 
+ p-value =  0.92 
+ 95 percent confidence interval:  -0.08 to 0.09 
+ cor =  0 
+ Decision:  Hipótese nula não rejeitada 
+
+T_01 : Area_01 and T_01 : MatrEsc_01 
+ t =  -0.87 
+ df (corrected) =  515 
+ p-value =  0.39 
+ 95 percent confidence interval:  -0.12 to 0.05 
+ cor =  -0.04 
+ Decision:  Hipótese nula não rejeitada 
+
+T_01 : Area_01 and T_01 : Emp_01 
+ t =  -2.63 
+ df (corrected) =  515 
+ p-value =  0.01 
+ 95 percent confidence interval:  -0.2 to -0.03 
+ cor =  -0.11 
+ Decision:  Hipótese nula rejeitada 
+
+T_01 : Area_01 and T_01 : AutPart_01 
+ t =  -0.2 
+ df (corrected) =  515 
+ p-value =  0.84 
+ 95 percent confidence interval:  -0.1 to 0.08 
+ cor =  -0.01 
+ Decision:  Hipótese nula não rejeitada 
+
+T_01 : Area_01 and T_01 : ViagPro_01 
+ t =  -1.82 
+ df (corrected) =  515 
+ p-value =  0.07 
+ 95 percent confidence interval:  -0.16 to 0.01 
+ cor =  -0.08 
+ Decision:  Hipótese nula não rejeitada 
+
+T_01 : Area_01 and T_01 : ViagAtr_01 
+ t =  -1.81 
+ df (corrected) =  515 
+ p-value =  0.07 
+ 95 percent confidence interval:  -0.16 to 0.01 
+ cor =  -0.08 
+ Decision:  Hipótese nula não rejeitada 
+

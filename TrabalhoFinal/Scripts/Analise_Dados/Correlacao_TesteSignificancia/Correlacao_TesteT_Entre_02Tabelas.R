@@ -20,7 +20,8 @@ library(corrplot)
 library(tidyverse)
 
 # Caminho para os dados CSV
-caminho_para_csv <- "~/AnaliseDeDados/TrabalhoFinal/Dados/OD/Exportados/"
+# caminho_para_csv <- "~/AnaliseDeDados/TrabalhoFinal/Dados/OD/Exportados/"
+caminho_para_csv <- "~/AnaliseDeDados/TrabalhoFinal/Dados/OD/csv"
 caminho_graficos <- "~/AnaliseDeDados/TrabalhoFinal/Dados/OD/Exportados/Graficos"
 caminho_significancia <- "~/AnaliseDeDados/TrabalhoFinal/Dados/OD/Exportados/Teste_Significancia"
 
@@ -29,9 +30,9 @@ caminho_significancia <- "~/AnaliseDeDados/TrabalhoFinal/Dados/OD/Exportados/Tes
 # T_05 <- read.csv(file.path(caminho_para_csv, "ZResidencia/Percentual_T_05.csv"), stringsAsFactors = FALSE, check.names = FALSE)
 # T_08 <- read.csv(file.path(caminho_para_csv, "ZResidencia/Percentual_T_08.csv"), stringsAsFactors = FALSE, check.names = FALSE)
 
-
 #Criar lista de dataframes
-# dataframes <- list("T_16" = T_16, "T_08" = T_08)
+#dataframes <- list("T_16" = T_16, "T_08" = T_08)
+
 
 # Função para calcular matriz de correlação e teste de significância T
 corr_signif_matrix <- function(df1, df2, df1_name, df2_name) {
