@@ -3,15 +3,24 @@ Fazer Correlações entre as variaveis
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
 
-3º
+2º
 
-- Tempo (Origem - Tabela 20)
-- Finalidade (Origem - Tabela 18)
+- Tabela 01 e Tabela 04
+- Tabela 01 e Tabela 05
+- Moradores e Tipos de Empregos 
+- Emp_FRes_14 x Emp_01 x 
+- ViagPro_01 x 
+- 
+
+
+Tipo de viagem produzida por renda familiar
+- Tipo - Tabela 16
+- Residencia - Tabela 05 e Tabela 08
 
 
 4º
 
-- Modal por Tipo (Tabela 17)/ Renda (Tabela 5)
+- Tempo e Modal por Tipo (Tabela 17)/ Renda (Tabela 5)
 
 5º
 
@@ -25,4 +34,28 @@ Matriz Correlação entre estes csv
 
 
 
+- Tipo - Tabela 16
+- Residencia - Tabela 05 e Tabela 08
+- T_16 x T_05
+- T_16 x T_08
+- T_01 x T_04
+- T_01 x T_05
 
+16 DONE
+
+05 DONE
+04 DONE
+08 DONE
+
+Criar Matrizes de relações entre
+
+16 x 05 DONE
+16 x 08 DONE
+
+16 x 08 ficaram bons
+16 x 05 ficaram bons
+
+Dispersão entre variaveis de 16 x 08
+16 x 05
+
+Verificar Variaveis

@@ -1,0 +1,630 @@
+T_16 : Metro_16 and T_05 : RF1_05 
+ t =  -8.13 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  -0.42 to -0.26 
+ sample estimates:
+ cor =  -0.34 
+ Decision:  Hipótese nula rejeitada 
+
+T_16 : Metro_16 and T_05 : RF2_05 
+ t =  -6.57 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  -0.36 to -0.2 
+ sample estimates:
+ cor =  -0.28 
+ Decision:  Hipótese nula rejeitada 
+
+T_16 : Metro_16 and T_05 : RF3_05 
+ t =  6.75 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.21 to 0.37 
+ sample estimates:
+ cor =  0.29 
+ Decision:  Hipótese nula rejeitada 
+
+T_16 : Metro_16 and T_05 : RF4_05 
+ t =  8 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.26 to 0.42 
+ sample estimates:
+ cor =  0.34 
+ Decision:  Hipótese nula rejeitada 
+
+T_16 : Metro_16 and T_05 : RF5_05 
+ t =  5.3 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.15 to 0.31 
+ sample estimates:
+ cor =  0.23 
+ Decision:  Hipótese nula rejeitada 
+
+T_16 : Trem_16 and T_05 : RF1_05 
+ t =  -0.19 
+ df (corrected) =  515 
+ p-value =  0.85 
+ 95 percent confidence interval:  -0.1 to 0.08 
+ sample estimates:
+ cor =  -0.01 
+ Decision:  Hipótese nula não rejeitada 
+
+T_16 : Trem_16 and T_05 : RF2_05 
+ t =  1.24 
+ df (corrected) =  515 
+ p-value =  0.21 
+ 95 percent confidence interval:  -0.03 to 0.14 
+ sample estimates:
+ cor =  0.06 
+ Decision:  Hipótese nula não rejeitada 
+
+T_16 : Trem_16 and T_05 : RF3_05 
+ t =  -1.54 
+ df (corrected) =  515 
+ p-value =  0.12 
+ 95 percent confidence interval:  -0.16 to 0.02 
+ sample estimates:
+ cor =  -0.07 
+ Decision:  Hipótese nula não rejeitada 
+
+T_16 : Trem_16 and T_05 : RF4_05 
+ t =  -0.47 
+ df (corrected) =  515 
+ p-value =  0.64 
+ 95 percent confidence interval:  -0.11 to 0.07 
+ sample estimates:
+ cor =  -0.02 
+ Decision:  Hipótese nula não rejeitada 
+
+T_16 : Trem_16 and T_05 : RF5_05 
+ t =  0.7 
+ df (corrected) =  515 
+ p-value =  0.49 
+ 95 percent confidence interval:  -0.06 to 0.12 
+ sample estimates:
+ cor =  0.03 
+ Decision:  Hipótese nula não rejeitada 
+
+T_16 : Onibus_16 and T_05 : RF1_05 
+ t =  0.03 
+ df (corrected) =  515 
+ p-value =  0.97 
+ 95 percent confidence interval:  -0.09 to 0.09 
+ sample estimates:
+ cor =  0 
+ Decision:  Hipótese nula não rejeitada 
+
+T_16 : Onibus_16 and T_05 : RF2_05 
+ t =  -0.62 
+ df (corrected) =  515 
+ p-value =  0.54 
+ 95 percent confidence interval:  -0.12 to 0.06 
+ sample estimates:
+ cor =  -0.03 
+ Decision:  Hipótese nula não rejeitada 
+
+T_16 : Onibus_16 and T_05 : RF3_05 
+ t =  0.83 
+ df (corrected) =  515 
+ p-value =  0.41 
+ 95 percent confidence interval:  -0.05 to 0.13 
+ sample estimates:
+ cor =  0.04 
+ Decision:  Hipótese nula não rejeitada 
+
+T_16 : Onibus_16 and T_05 : RF4_05 
+ t =  0.34 
+ df (corrected) =  515 
+ p-value =  0.74 
+ 95 percent confidence interval:  -0.07 to 0.1 
+ sample estimates:
+ cor =  0.02 
+ Decision:  Hipótese nula não rejeitada 
+
+T_16 : Onibus_16 and T_05 : RF5_05 
+ t =  -0.44 
+ df (corrected) =  515 
+ p-value =  0.66 
+ 95 percent confidence interval:  -0.11 to 0.07 
+ sample estimates:
+ cor =  -0.02 
+ Decision:  Hipótese nula não rejeitada 
+
+T_16 : TFret_16 and T_05 : RF1_05 
+ t =  2.74 
+ df (corrected) =  515 
+ p-value =  0.01 
+ 95 percent confidence interval:  0.03 to 0.21 
+ sample estimates:
+ cor =  0.12 
+ Decision:  Hipótese nula rejeitada 
+
+T_16 : TFret_16 and T_05 : RF2_05 
+ t =  1.89 
+ df (corrected) =  515 
+ p-value =  0.06 
+ 95 percent confidence interval:  0 to 0.17 
+ sample estimates:
+ cor =  0.09 
+ Decision:  Hipótese nula não rejeitada 
+
+T_16 : TFret_16 and T_05 : RF3_05 
+ t =  -1.47 
+ df (corrected) =  515 
+ p-value =  0.14 
+ 95 percent confidence interval:  -0.15 to 0.02 
+ sample estimates:
+ cor =  -0.07 
+ Decision:  Hipótese nula não rejeitada 
+
+T_16 : TFret_16 and T_05 : RF4_05 
+ t =  -3.68 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  -0.25 to -0.08 
+ sample estimates:
+ cor =  -0.16 
+ Decision:  Hipótese nula rejeitada 
+
+T_16 : TFret_16 and T_05 : RF5_05 
+ t =  -1.58 
+ df (corrected) =  515 
+ p-value =  0.11 
+ 95 percent confidence interval:  -0.16 to 0.02 
+ sample estimates:
+ cor =  -0.07 
+ Decision:  Hipótese nula não rejeitada 
+
+T_16 : TEscola_16 and T_05 : RF1_05 
+ t =  10.24 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.34 to 0.49 
+ sample estimates:
+ cor =  0.42 
+ Decision:  Hipótese nula rejeitada 
+
+T_16 : TEscola_16 and T_05 : RF2_05 
+ t =  7.88 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.25 to 0.41 
+ sample estimates:
+ cor =  0.34 
+ Decision:  Hipótese nula rejeitada 
+
+T_16 : TEscola_16 and T_05 : RF3_05 
+ t =  -8.6 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  -0.44 to -0.28 
+ sample estimates:
+ cor =  -0.36 
+ Decision:  Hipótese nula rejeitada 
+
+T_16 : TEscola_16 and T_05 : RF4_05 
+ t =  -8.74 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  -0.44 to -0.29 
+ sample estimates:
+ cor =  -0.37 
+ Decision:  Hipótese nula rejeitada 
+
+T_16 : TEscola_16 and T_05 : RF5_05 
+ t =  -6.82 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  -0.37 to -0.21 
+ sample estimates:
+ cor =  -0.29 
+ Decision:  Hipótese nula rejeitada 
+
+T_16 : DirAuto_16 and T_05 : RF1_05 
+ t =  -12.5 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  -0.56 to -0.42 
+ sample estimates:
+ cor =  -0.49 
+ Decision:  Hipótese nula rejeitada 
+
+T_16 : DirAuto_16 and T_05 : RF2_05 
+ t =  -12.47 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  -0.56 to -0.42 
+ sample estimates:
+ cor =  -0.49 
+ Decision:  Hipótese nula rejeitada 
+
+T_16 : DirAuto_16 and T_05 : RF3_05 
+ t =  10.54 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.35 to 0.5 
+ sample estimates:
+ cor =  0.43 
+ Decision:  Hipótese nula rejeitada 
+
+T_16 : DirAuto_16 and T_05 : RF4_05 
+ t =  11.5 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.39 to 0.53 
+ sample estimates:
+ cor =  0.46 
+ Decision:  Hipótese nula rejeitada 
+
+T_16 : DirAuto_16 and T_05 : RF5_05 
+ t =  12.07 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.41 to 0.54 
+ sample estimates:
+ cor =  0.48 
+ Decision:  Hipótese nula rejeitada 
+
+T_16 : PAutomo_16 and T_05 : RF1_05 
+ t =  -3.32 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  -0.23 to -0.06 
+ sample estimates:
+ cor =  -0.15 
+ Decision:  Hipótese nula rejeitada 
+
+T_16 : PAutomo_16 and T_05 : RF2_05 
+ t =  -3.22 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  -0.23 to -0.06 
+ sample estimates:
+ cor =  -0.14 
+ Decision:  Hipótese nula rejeitada 
+
+T_16 : PAutomo_16 and T_05 : RF3_05 
+ t =  3.49 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.07 to 0.24 
+ sample estimates:
+ cor =  0.16 
+ Decision:  Hipótese nula rejeitada 
+
+T_16 : PAutomo_16 and T_05 : RF4_05 
+ t =  2.9 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.04 to 0.22 
+ sample estimates:
+ cor =  0.13 
+ Decision:  Hipótese nula rejeitada 
+
+T_16 : PAutomo_16 and T_05 : RF5_05 
+ t =  2.41 
+ df (corrected) =  515 
+ p-value =  0.02 
+ 95 percent confidence interval:  0.02 to 0.19 
+ sample estimates:
+ cor =  0.11 
+ Decision:  Hipótese nula rejeitada 
+
+T_16 : TaxCon_16 and T_05 : RF1_05 
+ t =  -8.92 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  -0.45 to -0.3 
+ sample estimates:
+ cor =  -0.37 
+ Decision:  Hipótese nula rejeitada 
+
+T_16 : TaxCon_16 and T_05 : RF2_05 
+ t =  -12.08 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  -0.54 to -0.41 
+ sample estimates:
+ cor =  -0.48 
+ Decision:  Hipótese nula rejeitada 
+
+T_16 : TaxCon_16 and T_05 : RF3_05 
+ t =  6.04 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.18 to 0.34 
+ sample estimates:
+ cor =  0.26 
+ Decision:  Hipótese nula rejeitada 
+
+T_16 : TaxCon_16 and T_05 : RF4_05 
+ t =  12.47 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.42 to 0.56 
+ sample estimates:
+ cor =  0.49 
+ Decision:  Hipótese nula rejeitada 
+
+T_16 : TaxCon_16 and T_05 : RF5_05 
+ t =  13.35 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.45 to 0.58 
+ sample estimates:
+ cor =  0.52 
+ Decision:  Hipótese nula rejeitada 
+
+T_16 : TaxNCon_16 and T_05 : RF1_05 
+ t =  -10.93 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  -0.51 to -0.37 
+ sample estimates:
+ cor =  -0.44 
+ Decision:  Hipótese nula rejeitada 
+
+T_16 : TaxNCon_16 and T_05 : RF2_05 
+ t =  -13.61 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  -0.59 to -0.46 
+ sample estimates:
+ cor =  -0.52 
+ Decision:  Hipótese nula rejeitada 
+
+T_16 : TaxNCon_16 and T_05 : RF3_05 
+ t =  8.84 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.29 to 0.44 
+ sample estimates:
+ cor =  0.37 
+ Decision:  Hipótese nula rejeitada 
+
+T_16 : TaxNCon_16 and T_05 : RF4_05 
+ t =  13.56 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.46 to 0.58 
+ sample estimates:
+ cor =  0.52 
+ Decision:  Hipótese nula rejeitada 
+
+T_16 : TaxNCon_16 and T_05 : RF5_05 
+ t =  12.91 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.43 to 0.57 
+ sample estimates:
+ cor =  0.5 
+ Decision:  Hipótese nula rejeitada 
+
+T_16 : DirMoto_16 and T_05 : RF1_05 
+ t =  -0.1 
+ df (corrected) =  515 
+ p-value =  0.92 
+ 95 percent confidence interval:  -0.09 to 0.08 
+ sample estimates:
+ cor =  0 
+ Decision:  Hipótese nula não rejeitada 
+
+T_16 : DirMoto_16 and T_05 : RF2_05 
+ t =  -0.82 
+ df (corrected) =  515 
+ p-value =  0.41 
+ 95 percent confidence interval:  -0.13 to 0.05 
+ sample estimates:
+ cor =  -0.04 
+ Decision:  Hipótese nula não rejeitada 
+
+T_16 : DirMoto_16 and T_05 : RF3_05 
+ t =  1.15 
+ df (corrected) =  515 
+ p-value =  0.25 
+ 95 percent confidence interval:  -0.04 to 0.14 
+ sample estimates:
+ cor =  0.05 
+ Decision:  Hipótese nula não rejeitada 
+
+T_16 : DirMoto_16 and T_05 : RF4_05 
+ t =  -0.89 
+ df (corrected) =  515 
+ p-value =  0.37 
+ 95 percent confidence interval:  -0.13 to 0.05 
+ sample estimates:
+ cor =  -0.04 
+ Decision:  Hipótese nula não rejeitada 
+
+T_16 : DirMoto_16 and T_05 : RF5_05 
+ t =  0.68 
+ df (corrected) =  515 
+ p-value =  0.5 
+ 95 percent confidence interval:  -0.06 to 0.12 
+ sample estimates:
+ cor =  0.03 
+ Decision:  Hipótese nula não rejeitada 
+
+T_16 : PMoto_16 and T_05 : RF1_05 
+ t =  0.93 
+ df (corrected) =  515 
+ p-value =  0.35 
+ 95 percent confidence interval:  -0.05 to 0.13 
+ sample estimates:
+ cor =  0.04 
+ Decision:  Hipótese nula não rejeitada 
+
+T_16 : PMoto_16 and T_05 : RF2_05 
+ t =  1.12 
+ df (corrected) =  515 
+ p-value =  0.26 
+ 95 percent confidence interval:  -0.04 to 0.14 
+ sample estimates:
+ cor =  0.05 
+ Decision:  Hipótese nula não rejeitada 
+
+T_16 : PMoto_16 and T_05 : RF3_05 
+ t =  -0.23 
+ df (corrected) =  515 
+ p-value =  0.82 
+ 95 percent confidence interval:  -0.1 to 0.08 
+ sample estimates:
+ cor =  -0.01 
+ Decision:  Hipótese nula não rejeitada 
+
+T_16 : PMoto_16 and T_05 : RF4_05 
+ t =  -1.43 
+ df (corrected) =  515 
+ p-value =  0.15 
+ 95 percent confidence interval:  -0.15 to 0.02 
+ sample estimates:
+ cor =  -0.06 
+ Decision:  Hipótese nula não rejeitada 
+
+T_16 : PMoto_16 and T_05 : RF5_05 
+ t =  -1.59 
+ df (corrected) =  515 
+ p-value =  0.11 
+ 95 percent confidence interval:  -0.16 to 0.02 
+ sample estimates:
+ cor =  -0.07 
+ Decision:  Hipótese nula não rejeitada 
+
+T_16 : Bicicle_16 and T_05 : RF1_05 
+ t =  2.32 
+ df (corrected) =  515 
+ p-value =  0.02 
+ 95 percent confidence interval:  0.02 to 0.19 
+ sample estimates:
+ cor =  0.1 
+ Decision:  Hipótese nula rejeitada 
+
+T_16 : Bicicle_16 and T_05 : RF2_05 
+ t =  -0.45 
+ df (corrected) =  515 
+ p-value =  0.65 
+ 95 percent confidence interval:  -0.11 to 0.07 
+ sample estimates:
+ cor =  -0.02 
+ Decision:  Hipótese nula não rejeitada 
+
+T_16 : Bicicle_16 and T_05 : RF3_05 
+ t =  -0.97 
+ df (corrected) =  515 
+ p-value =  0.33 
+ 95 percent confidence interval:  -0.13 to 0.04 
+ sample estimates:
+ cor =  -0.04 
+ Decision:  Hipótese nula não rejeitada 
+
+T_16 : Bicicle_16 and T_05 : RF4_05 
+ t =  -0.77 
+ df (corrected) =  515 
+ p-value =  0.44 
+ 95 percent confidence interval:  -0.12 to 0.05 
+ sample estimates:
+ cor =  -0.03 
+ Decision:  Hipótese nula não rejeitada 
+
+T_16 : Bicicle_16 and T_05 : RF5_05 
+ t =  -0.19 
+ df (corrected) =  515 
+ p-value =  0.85 
+ 95 percent confidence interval:  -0.1 to 0.08 
+ sample estimates:
+ cor =  -0.01 
+ Decision:  Hipótese nula não rejeitada 
+
+T_16 : APé_16 and T_05 : RF1_05 
+ t =  13.28 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.45 to 0.58 
+ sample estimates:
+ cor =  0.51 
+ Decision:  Hipótese nula rejeitada 
+
+T_16 : APé_16 and T_05 : RF2_05 
+ t =  13.75 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.46 to 0.59 
+ sample estimates:
+ cor =  0.53 
+ Decision:  Hipótese nula rejeitada 
+
+T_16 : APé_16 and T_05 : RF3_05 
+ t =  -11.51 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  -0.53 to -0.39 
+ sample estimates:
+ cor =  -0.46 
+ Decision:  Hipótese nula rejeitada 
+
+T_16 : APé_16 and T_05 : RF4_05 
+ t =  -13.26 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  -0.58 to -0.45 
+ sample estimates:
+ cor =  -0.51 
+ Decision:  Hipótese nula rejeitada 
+
+T_16 : APé_16 and T_05 : RF5_05 
+ t =  -12.18 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  -0.55 to -0.41 
+ sample estimates:
+ cor =  -0.48 
+ Decision:  Hipótese nula rejeitada 
+
+T_16 : Outros_16 and T_05 : RF1_05 
+ t =  1.6 
+ df (corrected) =  515 
+ p-value =  0.11 
+ 95 percent confidence interval:  -0.02 to 0.16 
+ sample estimates:
+ cor =  0.07 
+ Decision:  Hipótese nula não rejeitada 
+
+T_16 : Outros_16 and T_05 : RF2_05 
+ t =  3.96 
+ df (corrected) =  515 
+ p-value =  0 
+ 95 percent confidence interval:  0.09 to 0.26 
+ sample estimates:
+ cor =  0.18 
+ Decision:  Hipótese nula rejeitada 
+
+T_16 : Outros_16 and T_05 : RF3_05 
+ t =  -2.76 
+ df (corrected) =  515 
+ p-value =  0.01 
+ 95 percent confidence interval:  -0.21 to -0.04 
+ sample estimates:
+ cor =  -0.12 
+ Decision:  Hipótese nula rejeitada 
+
+T_16 : Outros_16 and T_05 : RF4_05 
+ t =  -2.6 
+ df (corrected) =  515 
+ p-value =  0.01 
+ 95 percent confidence interval:  -0.2 to -0.03 
+ sample estimates:
+ cor =  -0.12 
+ Decision:  Hipótese nula rejeitada 
+
+T_16 : Outros_16 and T_05 : RF5_05 
+ t =  -2.7 
+ df (corrected) =  515 
+ p-value =  0.01 
+ 95 percent confidence interval:  -0.21 to -0.03 
+ sample estimates:
+ cor =  -0.12 
+ Decision:  Hipótese nula rejeitada 
+
