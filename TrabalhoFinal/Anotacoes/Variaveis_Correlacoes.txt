@@ -28,9 +28,13 @@ Tipo de viagem produzida por renda familiar
 
 OBS: 
 
-Transformar CSV originais em Porcentagem em relação ao Total
+1° - Transformar CSV originais das tabelas (T_05,T_20,etc) em Porcentagem em relação ao Total
 
-Matriz Correlação entre estes csv
+2° - Fazer uma Matriz Correlação entre os CSV de cada correlação de interesse 
+
+E.G.
+
+3 - Correlação entre T_18 e T_20
 
 
 
